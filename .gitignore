@@ -1,0 +1,8 @@
+settings_local.py
+*.pyc
+.vscode
+.idea
+media/
+system.log
+celerybeat-scheduleurls.txt
+urls.txt
