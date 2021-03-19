@@ -18,7 +18,7 @@ django-extensions==2.1.4
 django-filter==1.1.0
 django-model-utils==3.1.2
 django-partial-index==0.5.2
-djangorestframework==3.8.0
+djangorestframework==3.11.2
 dodgy==0.1.9
 drf-yasg==1.13.0
 entrypoints==0.3
